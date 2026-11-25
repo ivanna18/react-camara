@@ -1,0 +1,28 @@
+# Keep the normal Git ignore rules for Expo Build uploads.
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+*.pem
+.env*.local
+*.tsbuildinfo
+example
+/ios
+/android
+
+# Firebase config files stay out of Git but are needed by cloud builds.
+!google-services.json
+!GoogleService-Info.plist
