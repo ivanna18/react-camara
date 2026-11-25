@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.ivanna18.reactcamaranuevo",
+      "bundleIdentifier": "com.juanhrdz.reactCamara",
       "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
@@ -21,7 +21,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.ivanna18.reactcamaranuevo"
+      "package": "com.juanhrdz.reactCamara"
     },
     "web": {
       "output": "static",
